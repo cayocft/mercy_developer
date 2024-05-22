@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mercy_developer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f422a2945c9ab5590e9d4fa7300db11b38b190")]
 [assembly: System.Reflection.AssemblyProductAttribute("mercy_developer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mercy_developer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
